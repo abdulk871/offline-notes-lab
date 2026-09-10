@@ -47,7 +47,7 @@ export default function Home() {
       <main>
         <p className="eyebrow">FOUNDATION TRACK</p>
         <h1>
-          Ismaila Abdulkadir <br />
+          Ismail Abdulkadir <br />
           2024/1/99544CM <br />
           Telecommunications Engineering
         </h1>
